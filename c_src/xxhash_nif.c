@@ -1,6 +1,5 @@
 #include <stdint.h>
 
-#include "erl_nif.h"
 #define XXH_STATIC_LINKING_ONLY
 #include "xxhash.h"
 
